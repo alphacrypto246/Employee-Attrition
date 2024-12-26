@@ -57,8 +57,3 @@ The models developed provide insights into the factors that contribute most sign
 ## Conclusion
 
 Understanding employee attrition through data analysis enables organizations to implement targeted strategies to improve employee retention. By identifying the key factors that influence attrition, companies can take proactive measures to enhance employee satisfaction and reduce turnover.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
